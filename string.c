@@ -10,3 +10,4 @@ printf("hello, %s\n", name); // %\n is a syntax that stroes the value of whateve
 
 } // compile by typing "make string" (without quotes) in the terminal
 // then type ./string to run. It will show a blank space meaning it's waiting for a string. Type in, e.g., Dave and the result should show "hello, Dave" without the quotes
+
