@@ -12,3 +12,27 @@ int main(void)
     printf("string is %lu\n", sizeof(string));
 
 }
+
+//Other data types:
+
+// %f
+// %c
+// %d
+// %i
+// %lld
+// %s
+
+
+// Escape sequences
+// \n
+// \a
+// \r
+// \t
+// \'
+// \"
+// \\
+// \0
+
+
+
+
