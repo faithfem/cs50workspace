@@ -3,8 +3,8 @@
 
 int main(void)
 {
-    printf("bool is %lu\n", sizeof(bool));
-    printf("char is %lu\n", sizeof(char));
+    printf("bool is %lu\n", sizeof(bool)); // A bool is a whole byte = 8 bits
+    printf("char is %lu\n", sizeof(char)); // A character is a whole byte = 8 bits
     printf("double is %lu\n", sizeof(double));
     printf("float is %lu\n", sizeof(float));
     printf("int is %lu\n", sizeof(int));
