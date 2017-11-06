@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int n;
+//int n;
 
 int main(void)
 {
@@ -13,7 +13,7 @@ int main(void)
     if (s != NULL)
 
     // loops over the characters in s one at a time
-    for (int i = 0; n = strlen(s); i < n; i++) // Better than string.c coz we condition has changed
+    for (int i = 0, n = strlen(s); i < n; i++) // Better than string.c coz we condition has changed
     {
         // print i'th character in s
         printf("%c\n", s[i]);

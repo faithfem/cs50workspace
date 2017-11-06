@@ -5,7 +5,7 @@ int main(void)
 {
     for (int i = 0; i<10; i++)
     {
-        printf("#\n");
+        printf("Cynthia\n");
         //eprintf("i is now %i\n", i);
     }
 }
